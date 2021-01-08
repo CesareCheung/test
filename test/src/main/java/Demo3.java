@@ -18,5 +18,10 @@ public class Demo3 {
        */
         System.out.println((int)23.7);    //23
         System.out.println((int)-45.93f); //-45
+        System.out.println("==============================");
+        char c='a';
+        int d=c+1;
+        System.out.println(d);
+        System.out.println((char)d);
     }
 }
