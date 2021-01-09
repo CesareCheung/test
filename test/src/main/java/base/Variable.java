@@ -1,3 +1,5 @@
+package base;
+
 public class Variable {
     public static void main(String[] args) {
         // type typename 数据类型  变量名 作用域

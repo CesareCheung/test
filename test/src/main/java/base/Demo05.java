@@ -1,3 +1,5 @@
+package base;
+
 public class Demo05 {
 
     // 属性：变量
@@ -20,7 +22,7 @@ public class Demo05 {
         int i=10;
         System.out.println(i);
 
-        // 实例变量：变量类型  变量名称 =new Demo05()
+        // 实例变量：变量类型  变量名称 =new base.Demo05()
         Demo05 demo05=new Demo05();
         System.out.println(demo05.age);
         System.out.println(demo05.name);
