@@ -1,4 +1,4 @@
-package operator;
+package com.zhang.Demo.operator;
 
 // 逻辑运算符： 与  或   非
 public class Demo05 {
