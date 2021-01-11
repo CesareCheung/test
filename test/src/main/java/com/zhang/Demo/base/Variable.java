@@ -1,4 +1,4 @@
-package base;
+package com.zhang.Demo.base;
 
 public class Variable {
     public static void main(String[] args) {
